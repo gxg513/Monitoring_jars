@@ -5,10 +5,10 @@
 $host = 'db';
 
 // Database use name
-$user = 'MYSQL_USER';
+$user = 'razvan';
 
 //database user password
-$pass = 'MYSQL_PASSWORD';
+$pass = 'razvan';
 
 // check the MySQL connection status
 $conn = new mysqli($host, $user, $pass);
